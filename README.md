@@ -1,7 +1,7 @@
-NOM : 
-PRÉNOM :
-URL du site :
-URL FIGMA :
+- NOM : 
+- PRÉNOM :
+- URL du site :
+- URL FIGMA :
 
 # Structure de départ pour le projet individuel.
 
