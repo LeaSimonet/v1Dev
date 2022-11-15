@@ -1,3 +1,8 @@
+NOM : 
+PRÉNOM :
+URL du site :
+URL FIGMA :
+
 # Structure de départ pour le projet individuel.
 
 La structure de votre projet doit respecter scrupuleusement le modèle fourni dans ce dépôt (Repository).
